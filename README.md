@@ -1,16 +1,36 @@
-## Hi there 👋
+### Hi there 👋
+Full‑Stack & AI‑Agent Developer
 
-<!--
-**aiihubtop-maker/aiihubtop-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🛠 Tech Stack
+**Languages**
+- Go, Python, Node.js, Shell, SQL
 
-Here are some ideas to get you started:
+**Frontend**
+- React, Vue3, TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend & AI Agent**
+- LangGraph Agent development, Python / Golang implementation
+- RAG, Vector Database, Prompt engineering
+
+**Database & Middleware**
+- MySQL, PostgreSQL, Redis, MongoDB
+- Docker, RabbitMQ, Git
+
+#### ✨ Capabilities
+‑ End‑to‑end project delivery: requirement evaluation, risk control, schedule management
+‑ Database query optimization & performance tuning
+‑ Focus on code specification, write complete delivery documentation
+‑ Bug troubleshooting: log analysis, code review
+‑ Open‑source development, independent work or team task collaboration
+‑ Available for compliant part‑time development cooperation
+
+#### 📌 Interests
+‑ Practical AI Agent application
+‑ Full‑stack web system building
+‑ Backend & database performance optimization
+
+> 📫 Contact
+> Personal Homepage: https://your‑portfolio‑url.com
+> Only accept normal compliant business requirements
+
+<!--  -->
